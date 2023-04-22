@@ -1,11 +1,11 @@
 
 /* Your CSS Code here. */
-.container{
+div{
 	width:200px;
 	background-color: purple;
 	border-left-color: green;
-	padding:10px;
 	border-left:5px solid green;
 	font-size:20px;
 	color:white;
+	padding:10px;
 }
